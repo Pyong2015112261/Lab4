@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/pauly/Desktop/thunderbirdV2/thunderbird_isim_beh.exe" -prj "C:/Users/pauly/Desktop/thunderbirdV2/thunderbird_beh.prj" "work.thunderbird" "work.glbl" 
